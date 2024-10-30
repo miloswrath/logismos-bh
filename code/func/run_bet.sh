@@ -5,8 +5,8 @@
 # Output: skull stripped files
 
 # Set directories
-T1_DIR="/Shared/vosslabhpc/Projects/BikeExtend/3-Experiment/2-Data/BIDS"
-FSL_DIR="/Shared/vosslabhpc/Projects/BikeExtend/3-Experiment/2-Data/BIDS/derivatives/breathold_fsl/T1_preproc"
+T1_DIR="/Volumes/vosslabhpc/Projects/BikeExtend/3-Experiment/2-Data/BIDS"
+FSL_DIR="/Volumes/vosslabhpc/Projects/BikeExtend/3-Experiment/2-Data/BIDS/derivatives/breathold_fsl/T1_preproc"
 subs="code/res/subject_list.txt"
 
 # Check if the subject list file exists

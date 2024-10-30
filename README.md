@@ -16,11 +16,11 @@ For any correspondance, please email me at zakgilliam@gmail.com
 
 
 ## Tasks
-- change breathhold_fsl design file, change the preprocessing steps to account for source of skull stripped t1w's
-- change breathhold_fsl design file, change the preprocessing steps to account for source of skull stripped t1w's
-- uncheck melodic for space and time
-- change the output to a deriv dir and not the design
-- add all the wild cards in
-- check to see if t1w _brain exists in fmriprep folder
-    - if not, use the script mwv sent to run BET on the t1w images 
+-[] change breathhold_fsl design file, change the preprocessing steps to account for source of skull stripped t1w's
+-[] change breathhold_fsl design file, change the preprocessing steps to account for source of skull stripped t1w's
+-[] uncheck melodic for space and time
+-[] change the output to a deriv dir and not the design
+-[] add all the wild cards in
+-[x] check to see if t1w _brain exists in fmriprep folder
+    -[x] if not, use the script mwv sent to run BET on the t1w images 
 
