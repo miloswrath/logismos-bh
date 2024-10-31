@@ -23,6 +23,7 @@ For any correspondance, please email me at zakgilliam@gmail.com
 - [ ] add all the wild cards in
 - [x] check to see if t1w _brain exists in fmriprep folder
     - [x] if not, use the script mwv sent to run BET on the t1w images 
-- [ ] Validate BET -> `slicesdir -p $FSLDIR/data/standard/MNI152_T1_1mm_brain.nii.gz sub-2801_brain_MNIaff.nii.gz sub-2801_MNInonlin.nii.gz`
+- [x] Validate BET -> `slicesdir -p $FSLDIR/data/standard/MNI152_T1_1mm_brain.nii.gz sub-2801_brain_MNIaff.nii.gz sub-2801_MNInonlin.nii.gz`
+    - [ ] Run qc-bet.py tomorrow in lab
 - [ ] Review HPC design and job scripts -> `/Volumes/vosslabhpc/Projects/BikeExtend/3-Experiment/2-Data/BIDS/derivatives/breathold_v22.0.2/code`
 
