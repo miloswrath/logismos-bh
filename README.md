@@ -1,4 +1,4 @@
-# LOGISMOS Registered ML Prediction of Cerebrovascular Disposition to Exercise Intervention Benefits at Baseline
+# LOGISMOS Registered ML Prediction of Cerebrovascular Predisposition to Exercise Intervention Benefits at Baseline
 
 This repo houses the code and data used to analyze cerebrovascular features at baseline (along with covariates) and their relation to responses and benefits of an exercise intervention trial
 
